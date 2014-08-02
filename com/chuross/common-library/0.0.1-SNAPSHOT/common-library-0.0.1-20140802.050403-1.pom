@@ -61,6 +61,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.chuross</groupId>
+      <artifactId>test-library</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jdeferred</groupId>
       <artifactId>jdeferred-core</artifactId>
       <version>1.2.1</version>
