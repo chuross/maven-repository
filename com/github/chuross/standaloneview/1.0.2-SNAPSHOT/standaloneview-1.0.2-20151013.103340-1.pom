@@ -8,12 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.github.asyl.animation</groupId>
-      <artifactId>arcanimator</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.github.ozodrukh</groupId>
       <artifactId>CircularReveal</artifactId>
       <version>1.1.1</version>
